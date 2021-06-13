@@ -1,6 +1,6 @@
 # Natural-Calculator-with-Digit-Prognosis
 <p>
-  A Handy Calculator in which the user dont have to type the numbers, but instead only draw the number and the machine will be able fetch the correct number and perform the required arithmetic operations.
+A Handy Calculator in which the user doesn't have to type the numbers, but instead only draw the number, and the machine will be able to fetch the correct number and perform the required arithmetic operations.
 </p>
 <h2>About:-</h1>
 <p>
