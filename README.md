@@ -1,6 +1,6 @@
 # Natural-Calculator-with-Digit-Prognosis
 <p>
-  A Handy Calculator in which the user dont have to type the numbers, but instead only draw the number and the machine will be able fetch the correct number and perform the required arithmetic operations using the MNIST Data Set.
+  A Handy Calculator in which the user dont have to type the numbers, but instead only draw the number and the machine will be able fetch the correct number and perform the required arithmetic operations.
 </p>
 <h2>About:-</h1>
 <p>
